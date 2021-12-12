@@ -1,10 +1,8 @@
-const Animation = require("Animation")
-const Scene = require("Scene")
-
-main()
+import Animation from "Animation"
+import Scene from "Scene"
 
 async function main() {
-    const particleSystem = await Scene.root.findFirst("SnowParticleSystem")
+    const particleSystem: ParticleSystem = await Scene.root.findFirst("Snow Particle System") as ParticleSystem
 
 	particleSystem.hsvaColorModulationModifier = Animation.samplers.HSVA([
         Animation.samplers.constant(1),                 // The hue
@@ -19,3 +17,5 @@ async function main() {
         })
     ])
 }
+
+main()

@@ -1,5 +1,5 @@
-# Snowflakes Particle System
-<img src="https://raw.githubusercontent.com/ShivekXR/Snowflakes/master/icon.png" align="right" width="200px"/>
+# Spark AR Snowflakes
+<img src="https://raw.githubusercontent.com/ShivekXR/Spark-AR-Snowflakes/main/icon.jpg" align="right" width="200px"/>
 
 - [Description](#description)
 - [Downloads](#downloads)
@@ -21,33 +21,32 @@
 - [Credits](#credits)
 
 ## Description
-Enhance your winter Spark AR effects with beautiful falling snow. There are two ready-to-use templates: one for a World Effect and second for a Face Filter. The spawned particles are picked at random from the sprite sheet and pushed with constantly changing force which is simulating the wind. Additionally, there is a script for the world effect to fade out snowflakes at the end of their lifetime.
+Enhance your winter Spark AR effects with beautiful falling snow. There are two ready-to-use templates: one for World Effects and second for Face Filters. The spawned particles are picked at random from the sprite sheet and pushed with constantly changing force which is simulating the wind. Additionally, there is a script for the world effect to fade out snowflakes at the end of their lifetime, to emulate the melting.
 
-Made by Piotr "Shivek" Szafrański with **Spark AR v102** for **Windows**
-
-For more information, go to the official website: [ShivekXR.com/snowflakes](http://ShivekXR.com/snowflakes)
+---
+For more information, visit the official website: [ShivekXR.com/Spark-AR-Snowflakes](http://ShivekXR.com/Spark-AR-Snowflakes)
 
 ## Downloads
-[Click here to download the latest version of the project.](https://github.com/ShivekXR/Snowflakes/archive/master.zip)
+[Click here to download the latest version of the project.](https://github.com/ShivekXR/Spark-AR-Snowflakes/archive/main.zip)
 
 ## Preview
 ### <img src="https://shivekxr.com/git/youtube.png" align="left" width="28"/>Video
-<a href="https://www.youtube.com/watch?v=98xpVXfhE78" title="YouTube - Snowballs (Spark AR Game Example)"><img src="https://shivekxr.com/git/snowflakes_yt.jpg"/></a>
+<a href="https://www.youtube.com/watch?v=98xpVXfhE78" title="YouTube - Spark AR Snowflakes"><img src="https://shivekxr.com/git/spark_ar_snowflakes_yt.jpg"/></a>
 ### <p><img src="https://shivekxr.com/git/spark.png" align="left" width="28" padding="0"/>Test links</p>
-<p><a href="https://www.instagram.com/ar/245049760284241/" title="Instagram filter"><img src="https://shivekxr.com/git/instagram.png" align="left" width="24"/>Snowflakes Example on Instagram</a></p>
-<p><a href="https://www.facebook.com/fbcameraeffects/tryit/245049760284241/" title="Facebook Camera Effects"><img src="https://shivekxr.com/git/facebook.png" align="left" width="24"/>Snowflakes Example on Facebook Camera Effects</a></p>
+<p><a href="https://www.instagram.com/ar/245049760284241/" title="Instagram filter"><img src="https://shivekxr.com/git/instagram.png" align="left" width="24"/>Try Spark AR Snowflakes on Instagram</a></p>
+<p><a href="https://www.facebook.com/fbcameraeffects/tryit/245049760284241/" title="Facebook Camera Effects"><img src="https://shivekxr.com/git/facebook.png" align="left" width="24"/>Try Spark AR Snowflakes on Facebook</a></p>
 
 ## FAQ
 ### Is the project free?
-Yes, the project is free to use. I have created the project for educational purposes, for any AR enthusiasts. Don’t hesitate and modify the project and share the results!
+Yes, the project is free to use. I have created the project for educational purposes, for any AR enthusiasts. Don’t hesitate and modify the project and share the results! Let me know what you have created by tagging me on social media platforms!  
 ### With which version of Spark AR Studio should I open the project?
-Always try to open the project with the newest Spark AR version possible. But if you find it too buggy or you are unable to open it, then try the noted version from the [description](#description).
+Always try to open the project with the up-to-date Spark AR Studio. But if you find it too buggy or you are unable to open it, then try the original version (Spark AR **v127.1**) used to create this project.
 ### Can I use the project commercially?
-Sure, but first check the [GOOD_DEED.txt](https://raw.githubusercontent.com/ShivekXR/Snowflakes/master/GOOD_DEED.txt) terms.
+Sure, but first check the [GOOD_DEED](https://ShivekXR.com/GoodDeed/) Terms.
 ### Do I need a license to use the project?
-No, you don't need any license to use the project, except for any asset noted in the [Credits](#credits), and I don’t give any warranty for the project. But I reserve a right to forbid you using the project in case you blatantly break the [GOOD_DEED.txt](https://raw.githubusercontent.com/ShivekXR/Snowflakes/master/GOOD_DEED.txt) terms or scam unaware people.
+No, you don't need any license to use the project, except for any asset noted in the [Credits](#credits), and I don’t give any warranty for the project. But I reserve a right to forbid you using the project in case you blatantly break the [GOOD_DEED](https://ShivekXR.com/GoodDeed/) terms or scam unaware people.
 ### Can I share (in any form) the project?
-Yes, as long as you don’t break the [GOOD_DEED.txt](https://raw.githubusercontent.com/ShivekXR/Snowflakes/master/GOOD_DEED.txt) terms or rights of any party. Please check the [Credits section](#credits).
+Yes, as long as you don’t break the [GOOD_DEED](https://ShivekXR.com/GoodDeed/) terms or rights of any party. Please check the [Credits section](#credits).
 ### Do I need to credit your work?
 It is not necessary, but advisable.
 ### I have an idea... but I struggle implementing it to the project. Could you help me?
@@ -58,15 +57,18 @@ Unfortunately, I am not yet, but I cheer the idea of meat-free burgers.
 I am glad that you like my project and that it helped you create a cool AR effect! I put a lot of effort into creating tutorials and projects for you. If you find them helpful, consider following me on social media platforms. Check the [Author section](#author) for the links. Thank you!
 
 ## Changelog
-- 18 Dec 2020
-  - Simple snowflakes for Face Filter
-  - Awesome World AR snowflakes
+- **v2** (2020 Dec 12)
+  - Snowflakes World - apply Real-World Scale
+  - Rename Files
+- **v1** (2020 Dec 18)
+  - Face Camera Snowflakes
+  - Awesome World AR Snowflakes
 
 ## Author
 <a href="https://ShivekXR.com" title="ShivekXR.com - Check my official website for more projects!"><img src="https://shivekxr.com/git/shivek.png" height="175px" align="left"/></a>
 <br><b>Piotr "Shivek" Szafrański</b>
 <br>Creative Developer
-<br><a href="mailto:contact@shivekxr.com">contact@shivekxr.com</a>
+<br><a href="mailto:mailbox@shivekxr.com">mailbox@shivekxr.com</a>
 <br><a href="https://ShivekXR.com" title="ShivekXR.com - Check my official website for more projects!"><b>ShivekXR.com</b></a>
 <br>
 <br><a href="https://www.facebook.com/ShivekXR" title="Like my Facebook profile"><img src="https://shivekxr.com/git/facebook.png" width="32px"/></a>
@@ -76,11 +78,8 @@ I am glad that you like my project and that it helped you create a cool AR effec
 &nbsp;&nbsp;<a href="https://twitter.com/ShivekXR" title="Follow me on Twitter"><img src="https://shivekxr.com/git/twitter.png" width="32px"/></a>
 
 ## Credits
-Made by Piotr "Shivek" Szafrański with Spark AR Studio <https://sparkar.facebook.com>
+Made by **Piotr "Shivek" Szafrański** with **Spark AR Studio** <https://sparkar.facebook.com>
 
-Snowflake collection <https://thenounproject.com/daouna/collection/snowflake/> (c) by Daouna Jeong <https://www.daouna.com/>
-<br>Snowflake collection is licensed under a Creative Commons Attribution 3.0 <https://creativecommons.org/licenses/by/3.0/legalcode>.
+Snowflake collection <https://thenounproject.com/daouna/collection/snowflake/> (c) by Daouna Jeong <https://www.daouna.com/><br>Snowflake collection is licensed under a Creative Commons Attribution 3.0 <https://creativecommons.org/licenses/by/3.0/legalcode>.
 
-Office Environment Texture (c) by Facebook
-<br>Office is licensed under a Creative Commons Attribution 4.0 International License.
-You should have received a copy of the license along with this work. If not, see <http://creativecommons.org/licenses/by/4.0/>.
+Office Environment Texture (c) by Facebook<br>Office is licensed under a Creative Commons Attribution 4.0 International License <http://creativecommons.org/licenses/by/4.0/>.
